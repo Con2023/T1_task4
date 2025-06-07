@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="370841e3-1d35-449f-af6e-44465a018cd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/CachedAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/CachedAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/DTO/TransactionAsseptedMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/DTO/TransactionSendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/DataSourceErrorLogAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/DataSourceErrorLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/Metric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/MetricAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/Task3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/config/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/controllers/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/controllers/TransactionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/entities/DataSourceErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/entities/TimeLimitExceedLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/entities/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/repositories/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/repositories/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/repositories/DataSourceErrorLogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/repositories/TimeLimitExceedLogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/repositories/TransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/services/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/services/TimeLimitLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/services/TransactionListenerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/java/com/example/Task3/services/TransactionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/test/java/com/example/Task3/MetricAspectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/src/test/java/com/example/Task3/Task3ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server1/start-kafka.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/Server2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/untitled/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server2/untitled/src/main/java/org/example/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4b1807dc-2f87-4bf2-ba46-a9214b666354.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4b1807dc-2f87-4bf2-ba46-a9214b666354/storage_v2/_src_/schema/task1.THuQBg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/CachedAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/CachedAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/DataSourceErrorLogAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/DataSourceErrorLogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/Metric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/MetricAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/Task3Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/config/TestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/controllers/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/controllers/TransactionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/entities/DataSourceErrorLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/entities/TimeLimitExceedLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/entities/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/repositories/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/repositories/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/repositories/DataSourceErrorLogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/repositories/TimeLimitExceedLogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/repositories/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/services/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/services/TimeLimitLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/Task3/services/TransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/example/Task3/MetricAspectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/example/Task3/Task3ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../start-kafka.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/CachedAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/CachedAspect$CacheEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/CachedAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/DataSourceErrorLogAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/DataSourceErrorLogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/Account$AccountType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/DataSourceErrorLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/TimeLimitExceedLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Entities/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Metric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/MetricAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/Task3Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/Task3/config/TestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/com/example/Task3/MetricAspectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/com/example/Task3/Task3ApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2y2fwpJt33tBuiE5VsgTSDLCNrD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sofia/Desktop/Task3",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/sofia/Desktop/Task3/Common/common/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="370841e3-1d35-449f-af6e-44465a018cd8" name="Changes" comment="" />
+      <created>1749037830019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749037830019</updated>
+      <workItem from="1749037831059" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
